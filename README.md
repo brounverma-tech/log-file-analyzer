@@ -1,4 +1,7 @@
 # 🔍 Security Log File Analyzer
+
+![Category](https://img.shields.io/badge/Category-CYBERSECURITY%20%26%20PYTHON%20TOOLS-red?style=for-the-badge)
+
 A Python-based log analyzer for learning security monitoring and basic cybersecurity log analysis.
 
 ## 🚀 Features
@@ -54,7 +57,7 @@ Example output:
     Suspicious IPs:
     [WARNING] 192.168.1.25 - 2 failed login attempts
 
-    ## 🧠 What I Learned
+## 🧠 What I Learned
 
 Through this project, I practiced:
 
